@@ -1,0 +1,3 @@
+- add sounds -- IN PROGRESS
+- fix left wall placement (a little too close with 16:9)
+- add invisible 1 up block
